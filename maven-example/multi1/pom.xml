@@ -11,7 +11,7 @@
     <properties>
         <maven.javadoc.failOnError>false</maven.javadoc.failOnError>
     </properties>
-    </parent>
+    
     <licenses>
         <license>
             <name>apache</name>
