@@ -5,13 +5,12 @@
         <groupId>org.jfrog.test</groupId>
         <artifactId>multi</artifactId>
         <version>3.7-SNAPSHOT</version>
-          <packaging>pom</packaging>
-
-  <name>${project.artifactId}</name>
-
-  <properties>
-    <maven.javadoc.failOnError>false</maven.javadoc.failOnError>
-  </properties>
+        <packaging>pom</packaging>
+    </parent>
+    <name>${project.artifactId}</name>
+    <properties>
+        <maven.javadoc.failOnError>false</maven.javadoc.failOnError>
+    </properties>
     </parent>
     <licenses>
         <license>
