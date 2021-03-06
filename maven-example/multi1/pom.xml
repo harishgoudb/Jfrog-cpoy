@@ -6,6 +6,7 @@
         <artifactId>multi</artifactId>
         <version>3.7-SNAPSHOT</version>
     </parent>
+    
     <name>${project.artifactId}</name>
     <properties>
         <maven.javadoc.failOnError>false</maven.javadoc.failOnError>
